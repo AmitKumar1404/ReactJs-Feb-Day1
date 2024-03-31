@@ -1,0 +1,45 @@
+React Js
+ReactJs is a Frontend Development framework/library.
+Web Application
+1. Frontend
+2. Backend
+3. Fullstack Developer (ReactJs + NodeJs)
+
+Different-different frontend technologies available in market till today
+1. ReactJs (Real + Virtual DOM) (Facebook->Meta) -> (Jordan Walke)
+2. AngularJs (Real DOM) (Google)
+3. VueJs (Real + Virtual DOM) (Evan You)
+
+React creates a VIRTUAL DOM in memory.
+Types of DOM (Document Object Model)
+1. Real DOM
+2. Virtual DOM
+
+React is used to build single-page-applications (SPA).
+
+React allows us to create reusable UI components/HTML elements
+
+Tools Requirements
+1. NodeJs
+	version check - node -v
+
+npm uninstall -g create-react-app		(npm means node package manager)
+npm install -g create-react-app			(here, g is globally)
+
+npx create-react-app <ReactProjectName>
+npx create-react-app flipkart
+
+cra means create react app
+
+cd projectName
+npm start
+
+http://hostname:portnumber/
+http://localhost:3000/
+
+
+
+CMD Command
+* Node version :- node -v
+* NPM version :- npm -v
+* NPX version :- npx -v

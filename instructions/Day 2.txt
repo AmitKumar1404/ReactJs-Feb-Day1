@@ -1,0 +1,11 @@
+A blank ReactJs project is of 220 MB of size
+
+How to open terminal with short in VS Code
+Ctrl + `(Back Tick)
+
+npm start -> react-scripts start
+
+React Js support Hot Reloading (Auto-Reloading)
+
+./ => current directory
+svg is a image (scalable vector graphics)
